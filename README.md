@@ -111,6 +111,8 @@ Repo: https://github.com/dehvCurtis/vulnerable-code-examples/tree/main/SCA
 | ----------       | -----------                  | ------- | - |
 | `SCA/javascript/node` | `pom.xml` | spring-boot-starter | 1 |
 
+
+
 #### Python
 | Location        | File     | CWE / Exposure    | # of Exposures |
 | ----------       | -----------                  | ------- | - |
